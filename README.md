@@ -6,7 +6,7 @@ By Muhindo Kiro
 
 Description
 --------------
-This is a web application that allows users to view photos. A user can view the phot details,location and date when the photo was taken. 
+This is a web application that allows users to view photos. A user can view the photo details,location and date when the photo was taken. 
 
 Setup/Installation Requirements
 --------------------------------
@@ -30,10 +30,10 @@ Technologies Used
 Behaviour Driven Development
 ------------------------------
 
-|-- Input  --|	Output --|
+| Input  --|	Output --|
 -------------------------------
-|-- open app in browser --| images display --|	
-|-- click image --|	image details appear --|
+| open app in browser --| images display --|	
+| click image --|	image details appear --|
 
 
 Support and contact details
