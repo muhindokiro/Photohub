@@ -40,4 +40,5 @@ Support and contact details
 Email: photohub@gmail.com
 
 License
+---------
 MIT License Copyright (c) {2019} 
