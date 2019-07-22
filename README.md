@@ -11,28 +11,29 @@ This is a web application that allows users to view photos. A user can view the 
 Setup/Installation Requirements
 --------------------------------
 
-Install python3.6
-Install django
-Clone the application from github
-Cd into the application
-Create a virtual environment
-Install requirements
+- Install python3.6
+- Install django
+- Clone the application from github
+- Cd into the application
+- Create a virtual environment
+- Install requirements
 
 
 Technologies Used
 --------------------
-Python3.6
-HTML
-Django2.
-CSS
+1. Python3.6
+2. HTML
+3. Django2.
+4. CSS
 
 
 Behaviour Driven Development
---------------------------------
-| Input  |	Output
+------------------------------
 
-| open app in browser | images display |	
-| click image |	image details appear |
+|-- Input  --|	Output --|
+-------------------------------
+|-- open app in browser --| images display --|	
+|-- click image --|	image details appear --|
 
 
 Support and contact details
